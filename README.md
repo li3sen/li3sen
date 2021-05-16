@@ -1,4 +1,4 @@
-### Hi there welcome to li3sen 👋
+### Hi there, welcome to li3sen 👋
 
 <!--
 **li3sen/li3sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
